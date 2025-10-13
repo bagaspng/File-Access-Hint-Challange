@@ -1,0 +1,1 @@
+praktikan belajar membedakan file teks dan biner berdasarkan hasil file dan stat.
