@@ -1,0 +1,1 @@
+Mengenal representasi data dalam bentuk heksadesimal dan cara konversinya kembali ke teks.

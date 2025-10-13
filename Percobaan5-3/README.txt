@@ -1,0 +1,1 @@
+Memahami prinsip dasar encoding dan transformasi teks menggunakan algoritma sederhana.
